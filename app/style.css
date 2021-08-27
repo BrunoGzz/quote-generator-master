@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
+
+body{
+	font-family: Raleway !important;
+}
+
+#random-button, #random-button-author{
+	border: none;
+	background: transparent;
+	font-size: 18px;
+}
+
+#author-title{
+	font-weight: 700;
+	font-size: 36px;
+	color: #333333;
+	text-align: center;
+	width: 100%;
+}
+
+.quote{
+	width: 100%;
+	margin-top: 140px;
+	text-align: center;
+}
+
+.quote p{
+	width: 35%;
+	font-size: 33px;
+	padding-left: 60px;
+	text-align: left;
+}
+
+#button-author{
+	width: 35%;
+	margin-top: 90px;
+	text-align: left;
+	border: none;
+	background: transparent;
+	margin-left: 100px;
+	margin-bottom: 100px;
+}
+
+.footer {
+	display: flex;
+	flex-direction: row;
+	height: 50px;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	background-color: #fff;
+	color: #828282;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	font-size: 14px;
+	font-family: 'Montserrat';
+}
+
+#button-author:hover{
+	background-color: #333333;
+	color: #fff;
+}
+
+#button-author:hover #go-button{
+	background-color: #333333;
+} 
