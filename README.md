@@ -31,7 +31,6 @@
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -39,6 +38,7 @@
 
 ![screenshot](./demo.png)
 
+A simple application that generates random quotes for you. Thanks for visiting <3
 
 
 ### Built With
