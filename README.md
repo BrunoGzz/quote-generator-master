@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Mr Quotes}</h1>
+<h1 align="center">Mr Quotes</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -69,6 +69,6 @@ $ git clone https://github.com/BrunoGzz/quote/generator-master
 
 ## Contact
 
-- Website [your-website.com](http://{searchout.tk})
-- GitHub [@your-username](https://{github.com/brunogzz})
-- Twitter [@your-twitter](https://{twitter.com/Bruno08Gzz})
+- Website [searchout.tk](http://{searchout.tk})
+- GitHub [@BrnoGzz](https://{github.com/brunogzz})
+- Twitter [@Bruno08Gzz](https://{twitter.com/Bruno08Gzz})
