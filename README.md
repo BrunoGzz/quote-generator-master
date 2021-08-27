@@ -65,6 +65,9 @@ To clone and run this application, you'll need [Git](https://git-scm.com). From 
 ```bash
 # Clone this repository
 $ git clone https://github.com/BrunoGzz/quote/generator-master
+
+# Change directory
+$ cd quote-generator-master
 ```
 
 ## Contact
