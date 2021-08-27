@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/BrunoGzz/quote-generator-master/demo.png)
+![screenshot](./demo.png)
 
 
 
